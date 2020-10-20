@@ -1,9 +1,7 @@
 ---
 layout: post
 title: 'Syllabus for Computer Science (AI)'
-subtitle: Will update when I remember.
 date: 2020-10-16
-#permalink: /posts/2020/10/post-1/
 tags: [general]
 comments: true
 ---
