@@ -1,11 +1,9 @@
 ---
+layout: post
 title: 'Supervised ML Experiment'
 date: 2020-10-20
-permalink: /posts/2020/10/post-3/
-tags:
-  - technical
-  - machine learning
-  - supervised learning
+tags:[technical, machine learning, supervised learning]
+comments: true
 ---
 > Last update on 20 Oct 2020 <br> 最后更新于2020年10月20日
 
@@ -29,7 +27,7 @@ High Variance -> over-fitting.
 
 **Trade-off** is a balance achieved between two desirable but incompatible features; a compromise.
 
-![Bias vs Variance](/images/bias_variance.png)
+![Bias vs Variance](/assets/img/post-bias_variance.png)
 
 $$
   error(x) = noise(x) + bias(x) + variance(x)
