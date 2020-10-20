@@ -1,2 +1,2 @@
-This is my unprofessional personal website. <br>
-这是我非专业的个人网站。
+This site serves as my self-documentation and by no means a professional personal website. <br>
+这个网站是作为我的自我记录，并不是专业的个人网站。
