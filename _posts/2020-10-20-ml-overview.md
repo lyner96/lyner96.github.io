@@ -2,7 +2,6 @@
 layout: post
 title: 'Machine Learning (ML) Overview'
 date: 2020-10-20
-#permalink: /posts/2020/10/post-1/
 tags: [technical, machine learning]
 comments: true
 ---
