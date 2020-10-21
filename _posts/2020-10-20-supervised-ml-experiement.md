@@ -33,6 +33,12 @@ $$
   error(x) = noise(x) + bias(x) + variance(x)
 $$
 
-# Dataset Split
+# Neural Network Training process
 
-Generally, the dataset is split to train and test set with common ratio 7:3 or 8:2. A good practice is to have validation set, which is split among train set.
+1. Gather input data and label.
+2. Split the data to training and testing set to a ratio of 7:3 or 8:2. Then further split training data for validatation set to verify the generalization.
+3. Build a model of mapping hypothesis.
+4. Compute loss relationship $$ Loss = g(w) $$
+5. Through iterative optimization <迭代优化> to reduce Loss, finally find the suitable weight, w.
+
+
