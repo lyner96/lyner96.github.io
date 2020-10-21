@@ -5,7 +5,7 @@ date: 2020-10-20
 tags: [technical, machine learning, supervised learning]
 comments: true
 ---
-> Last update on 20 Oct 2020 <br> 最后更新于2020年10月20日
+> Last update on 21 Oct 2020 <br> 最后更新于2020年10月21日
 
 # Term
 
