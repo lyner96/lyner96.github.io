@@ -5,7 +5,7 @@ date: 2020-10-20
 tags: [technical, machine learning]
 comments: true
 ---
-> Last update on 20 Oct 2020 <br> 最后更新于2020年10月20日
+> Last update on 23 Oct 2020 <br> 最后更新于2020年10月23日
 
 # Approach: Conventional vs ML
 
@@ -28,6 +28,8 @@ ML: Data + Output = Algorithm
    * **structured prediction / structured learning**
 1. **Unsupervised Learning <非监督学习>**: find relationship in unlabelled datacand does not give the right output but explores the data
    * **clustering**
+   * **dimension reduction**
+   * **generation**
 1. **Reinforcement Learning <强化学习>**: how software agents ought to take actions in an environment in order to maximize the notion of cumulative reward
    * Typical environment: Markov decision process (MDP)
 1. **Semi-supervised Learning <半监督学习>**: combines a small amount of labeled data with a large amount of unlabeled data during training
