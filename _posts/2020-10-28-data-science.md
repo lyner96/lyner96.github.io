@@ -30,6 +30,9 @@ comments: true
 
 ## Obtain Data
 
+[Choosing a Database for Analytics](https://segment.com/blog/choosing-a-database-for-analytics/)
+
+
 1. Database Management <br>
    - MySQL: stuctured data <br>
    - [MongoDB](https://www.youtube.com/watch?v=-56x56UppqQ): unstructed data like videos, audio files, documents
