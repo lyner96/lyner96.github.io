@@ -7,17 +7,23 @@ subtitle: A bit detail of my experience
 
 # Education
 
-* M.S. in Data Science, Multimedia University, Cyberjaya 2020
-* B.IT. in Artificial Intelligence, Multimedia University, Melaka 2018
+* Master in Science (Information Technology) by Research, Multimedia University, Cyberjaya. 2020
+* Bachelor of Information Technology (Artificial Intelligence), Multimedia University, Melaka. 2018
 
 Work experience
 ======
-* 2020 - present: Data Scientist
+* Data Scientist
+  * November 2020 - April 2021
+  * Company: Ainqa Health
+  * Duties:
+     1. Apply deep learning to forecast disease cases.
+     2. Generate dummy data and develop dashboard for Proof-of-Concept work. 
 
-* 2018 - 2020: Research Scholar
+* Research Scholar
+  * November 2018 - October 2020
   * Company: Multimedia University
   * Duties: 
-     1. Develop sentiment module for English and Malay sentences. 
+     1. Develop sentiment classification module for English and Malay sentences. 
      2. Develop dashboard to visualize churn location.
 
 Research experience
