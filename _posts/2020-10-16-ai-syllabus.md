@@ -5,7 +5,7 @@ date: 2020-10-16
 tags: [general]
 comments: true
 ---
-> Last update on 16 Oct 2020 
+> Last update on 22 April 2021 
 
 This is a recommended syllabus from me to people that planning on self-study Artificial Intelligence with Computer Science fundamental. 
 
