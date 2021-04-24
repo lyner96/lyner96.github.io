@@ -2,7 +2,7 @@
 layout: page
 title: "CV"
 #permalink: /cv/
-subtitle: A bit detail of my experience
+subtitle: My experiences.
 ---
 
 # Education

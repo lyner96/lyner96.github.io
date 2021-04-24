@@ -17,8 +17,6 @@ Summary
 | 19[2015] - 22[2018]  | BIT - AI |
 | 23[2019] - 25[2021]  | Msc IT - Data Science |
 
-<br>
-
 June 2015 to June 2018 
 - I studied Bachelor of IT in Artificial Intelligence at [Multimedia University, Melaka](https://www.mmu.edu.my/melaka/). 
 
@@ -27,7 +25,6 @@ August 2018 to October 2018
 
 November 2018 - present
 - I am doing Master of Science in IT by research  at [Multimedia University, Cyberjaya](https://www.mmu.edu.my/cyberjaya/) on November 2018 under supervision of [Dr Peter](https://www.linkedin.com/in/peterhocc). 
-- A [journal paper](https://ieeexplore.ieee.org/document/9210093) is publised in IEEE Access (2020).
 - I am done with the writing. Now waiting to submit thesis for viva.
 
 November 2020 - April 2021

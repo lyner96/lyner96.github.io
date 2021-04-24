@@ -5,10 +5,9 @@ date: 2020-10-16
 tags: [general]
 comments: true
 ---
-> Last update on 16 Oct 2020 <br> 最后更新于2020年10月16日
+> Last update on 16 Oct 2020 
 
-This is the recommended syllabus from me to people that planning on self-study Artificial Intelligence. <br>
-这是我给打算自学人工智能的人推荐的教学大纲。
+This is a recommended syllabus from me to people that planning on self-study Artificial Intelligence with Computer Science fundamental. 
 
 # Fundamental
 1. Algebra <br> 代数
@@ -40,12 +39,9 @@ This is the recommended syllabus from me to people that planning on self-study A
 1. Pattern Recognition <br> 模式识别
 1. Computer Vision <br> 计算机视觉
 1. Natural Language Processing <br> 自然语言处理
-1. Expert Systems <br> 专家系统
-1. Agent Technology 
 
 # Elective
 1. Cloud Computing <br> 云计算
 1. Web Application Development <br> 网络应用开发
 1. Human Computer Interaction <br> 人机交互
-1. Programming Language Concept <br> 程序设计语言概念
-1. Semantic Web Technology <br> 语义网技术
+2. Semantic Web Technology <br> 语义网技术
