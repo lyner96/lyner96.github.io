@@ -16,7 +16,7 @@ Work experience
   * November 2020 - April 2021
   * Company: Ainqa Health
   * Duties:
-     1. Apply deep learning to forecast disease cases.
+     1. Apply LSTM to forecast disease cases.
      2. Generate dummy data and develop dashboard for Proof-of-Concept work. 
 
 * Research Scholar

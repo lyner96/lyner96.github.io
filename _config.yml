@@ -15,7 +15,8 @@ title: Lyner Lim
 
 navbar-links:
   About: "page/about"
-  Portfolio:
+  Note: "page/note"
+  Portfolio: "page/portfolio"
   CV: "page/cv"
 
 # --- Logo --- #
@@ -85,7 +86,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "lyner, lyner lim"
+keywords: "lyner, lyner lim, lim wei lun"
 
 # --- Colours / background image --- #
 
