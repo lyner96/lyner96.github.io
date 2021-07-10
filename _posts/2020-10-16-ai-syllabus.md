@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 'Syllabus for Computer Science (AI)'
+title: 'Syllabus for Computer Science (DS)'
 date: 2020-10-16
 tags: [general]
 comments: true
 ---
-> Last update on 22 April 2021 
+> Last update on 10 July 2021 
 
-This is a recommended syllabus from me to people that planning on self-study Artificial Intelligence with Computer Science fundamental. 
+This is a recommended syllabus from me to people that planning on self-study Data Science with Computer Science fundamental. 
 
 # Fundamental
 1. Algebra <br> 代数
@@ -44,4 +44,5 @@ This is a recommended syllabus from me to people that planning on self-study Art
 1. Cloud Computing <br> 云计算
 1. Web Application Development <br> 网络应用开发
 1. Human Computer Interaction <br> 人机交互
-2. Semantic Web Technology <br> 语义网技术
+
+

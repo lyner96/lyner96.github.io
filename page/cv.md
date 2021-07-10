@@ -12,6 +12,12 @@ subtitle: My experiences.
 
 Work experience
 ======
+* Research Assistant
+  * May 2021 - October 2021
+  * Company: Sunway University
+  * Duties:
+     1. Explainable for object detection in droplets.
+
 * Data Scientist
   * November 2020 - April 2021
   * Company: Ainqa Health
@@ -19,7 +25,7 @@ Work experience
      1. Apply LSTM to forecast disease cases.
      2. Generate dummy data and develop dashboard for Proof-of-Concept work. 
 
-* Research Scholar
+* Research Assistant
   * November 2018 - October 2020
   * Company: Multimedia University
   * Duties: 
@@ -28,13 +34,19 @@ Work experience
 
 Research experience
 ======
+
+* 2021 - present: DeepSpray 
+  * Sunway University
+  * About: Explainable deep learning on droplet detection for atomization.
+  * Supervisor: Prof. Lau Sian Lun
+
 * 2018 - 2020: Geotagged Sentiment Analysis using Deep Learning 
-  * Multimedia University Cyberjaya
+  * Multimedia University, Cyberjaya
   * About: Feature-level fusion of text and location information for sentiment classification using Convolutional Neural Network (CNN) and Bi Long Short-Term Memory Network (BiLSTM).
   * Supervisor: Dr. Ho Chiung Ching
 
 * 2017 - 2018: Facial Expression Recognition with Deep Learning
-  * Multimedia University Melaka
+  * Multimedia University, Melaka
   * About: Facial expression classification using Convolutional Neural Network (CNN). 
   * Supervisor: Dr. Lim Kian Ming
   
